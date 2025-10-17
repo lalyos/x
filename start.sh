@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo === Version 1.0.1 ===
+echo === Version 1.0.2 (dms) ===
